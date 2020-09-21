@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cloudnextabidjan-xoqsda64ya-uc.a.run.app/sitemap.xml
